@@ -47,9 +47,11 @@ P.S. when launching the solver in the normal mode, all the boards are saved in t
 #### Other debugging options
 You can use the following options: 
 
-  - -case, -c [number] -> to choose a particular starting CASE using a [number] included between [0, 224]
-  - -vertical, -v      -> to search, the best move, vertically
-  - -horizontal, -h    -> to search, the best move, horizontally
+| Command | Description |
+| --- | --- |
+| -case, -c [number] | to choose a particular starting CASE using a [number] included between [0, 224] |
+| -vertical, -v | to search, the best move, vertically |
+| -horizontal, -h | to search, the best move, horizontally |
   
 Example:
 ```bash
