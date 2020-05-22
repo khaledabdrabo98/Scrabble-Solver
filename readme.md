@@ -1,6 +1,8 @@
 # Scrabble Solver Projet
 The aim of this project was to program an automatic Scrabble player capable of determining the move with the most points using the [GADDAG](https://en.wikipedia.org/wiki/GADDAG) data structure.
 
+![solver](data/solver.gif)
+
 ## Usage
 Clone or download and unzip the archive. Compiling this repository is done using the `premake4` command. You must therefore verify that it is installed. For that, you can use ```apt policy premake4``` or ``` dpkg -l premake4```. Otherwise, Premake packages are available for most linux distributions.
 
